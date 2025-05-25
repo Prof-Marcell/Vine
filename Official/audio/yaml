@@ -1,0 +1,20 @@
+stage:
+set up:
+build: 
+run job(s):
+command:
+action(s):
+-name: 
+"create a new dev.envro into the form of a newly extracted  .zip/path/pipeline"
+build:
+-link:
+-share: 
+-name:
+"https://youtube.com/vine/marcel-topic/"
+commit code: 
+-to repo:
+-name:
+-[main]
+deploy:
+-push code:
+--force push
